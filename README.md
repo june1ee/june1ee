@@ -1,7 +1,7 @@
 Backend / Data Engineer in Seoul (UTC+9).
 
 I build large-scale streaming data systems (Kafka, Spark, and Airflow pipelines
-handling 200-300M events a day) and work on getting GenAI to behave in
+handling ~250M events a day) and work on getting GenAI to behave in
 production. What I enjoy most sits where the two meet: making a number
 trustworthy, and making a model's answer measurable.
 
