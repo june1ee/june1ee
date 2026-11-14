@@ -14,6 +14,7 @@ evaluation loops, and small automations for things I do every week. Two of them:
 - [**b-roll**](https://github.com/june1ee/b-roll): fits video cuts and captions
   to a recorded voice and hands back a real CapCut project.
 
-Kotlin · Java · Python · Spark · Kafka · Kubernetes
+Outside work I make small, warm things for everyday kindness:
+[**junelee.dev**](https://junelee.dev).
 
-Open to fully remote roles and international relocation.
+Kotlin · Java · Python · Spark · Kafka · Kubernetes
